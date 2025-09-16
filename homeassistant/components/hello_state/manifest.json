@@ -1,0 +1,9 @@
+{
+  "domain": "hello_state",
+  "name": "Hello State",
+  "codeowners": ["@shradha-shinde"],
+  "documentation": "https://www.home-assistant.io/integrations/hello_state",
+  "integration_type": "helper",
+  "iot_class": "calculated",
+  "requirements": []
+}
